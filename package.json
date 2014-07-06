@@ -1,0 +1,28 @@
+{
+    "name": "auto",
+    "description": "auto",
+    "version": "0.0.0",
+    "author": {
+        "name": "serandives",
+        "email": "serandives@gmail.com"
+    },
+    "dependencies": {
+        "express": "3.*",
+        "mongoose": "3.8.12",
+        "utils": "serandules/utils#master",
+        "mongutils": "serandules/mongutils#master",
+        "user": "serandules/user#master",
+        "client": "serandules/client#master",
+        "token": "serandules/token#master",
+        "vehicle": "serandules/vehicle#master",
+        "auth": "serandules/auth#master",
+        "user-service": "serandules/user-service#master",
+        "client-service": "serandules/client-service#master",
+        "token-service": "serandules/token-service#master",
+        "vehicle-service": "serandules/vehicle-service#master"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/serandives/auto.git"
+    }
+}
